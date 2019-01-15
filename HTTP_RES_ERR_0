@@ -1,0 +1,7 @@
+HTTP/1.1 405 Method Not Allowed
+Cache-Control: max-age=604800
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 14 Jan 2019 16:43:51 GMT
+Expires: Mon, 21 Jan 2019 16:43:51 GMT
+Server: EOS (vny006/0451)
+Content-Length: 0

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Mon, 14 Jan 2019 16:11:23 GMT
+Server: Apache/2.2.22 (Debian)
+X-Powered-By: PHP/5.4.4-14+deb7u12
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1609
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html

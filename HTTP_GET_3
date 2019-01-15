@@ -1,0 +1,9 @@
+GET /wps/wcm/connect/7c63338046d38c6f8836e9de98bedc56/17.jpg?MOD=AJPERES&lmod=-486576947&CACHEID=7c63338046d38c6f8836e9de98bedc56 HTTP/1.1
+Host: www.bankhapoalim.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/71.0.3578.98 Chrome/71.0.3578.98 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://www.bankhapoalim.com/wps/portal/int/article?WCM_GLOBAL_CONTEXT=bhint/int/helpers/onlinebanking&proceed=1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=0000Uppy4E4mOIgrWapgUlkhGvs:12uci38bn
